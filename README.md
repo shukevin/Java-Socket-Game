@@ -10,10 +10,10 @@
   - Server recieves leadboard data/request for next level
 
 ## Client demonstration
-- ![Animation](https://user-images.githubusercontent.com/61431892/117028394-ae725880-accb-11eb-9724-6179b21a807f.gif)
+ ![Animation](https://user-images.githubusercontent.com/61431892/117028394-ae725880-accb-11eb-9724-6179b21a807f.gif)
 
 
-- ![Animation2](https://user-images.githubusercontent.com/61431892/117028404-b0d4b280-accb-11eb-9b38-b80fba9e0af5.gif)
+ ![Animation2](https://user-images.githubusercontent.com/61431892/117028404-b0d4b280-accb-11eb-9b38-b80fba9e0af5.gif)
 
 ## Server demonstration
-- ![Animation3](https://user-images.githubusercontent.com/61431892/117028411-b3370c80-accb-11eb-8f58-fdf090821d87.gif)
+ ![Animation3](https://user-images.githubusercontent.com/61431892/117028411-b3370c80-accb-11eb-8f58-fdf090821d87.gif)
