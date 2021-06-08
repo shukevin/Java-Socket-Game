@@ -15,5 +15,5 @@
 
  ![Animation2](https://user-images.githubusercontent.com/61431892/117028404-b0d4b280-accb-11eb-9b38-b80fba9e0af5.gif)
 
-## Server demonstration
+## Server log demonstration
  ![Animation3](https://user-images.githubusercontent.com/61431892/117028411-b3370c80-accb-11eb-8f58-fdf090821d87.gif)
